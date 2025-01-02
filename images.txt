@@ -1,1 +1,3 @@
- quay.io/minio/minio
+soulteary/flare
+mysql:5.7.30
+mongo:7
