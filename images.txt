@@ -1,1 +1,1 @@
-docblue/chfs
+docblue/chfs:v4.0beta.min
