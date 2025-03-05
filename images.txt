@@ -1,1 +1,1 @@
-docblue/chfs:v4.0beta.min
+jenkins/jenkins:2.499-jdk17
