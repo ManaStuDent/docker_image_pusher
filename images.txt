@@ -1,1 +1,1 @@
-jenkins/jenkins:2.499-jdk17
+selenium/standalone-chromium:latest
