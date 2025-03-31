@@ -1,1 +1,1 @@
-xhofe/alist:latest
+p3terx/aria2-pro
