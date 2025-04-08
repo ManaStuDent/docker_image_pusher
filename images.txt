@@ -1,1 +1,1 @@
-severalnines/sysbench
+pingcap/tiflash:8.5.1
