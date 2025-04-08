@@ -1,1 +1,3 @@
-dperson/samba
+pingcap/pd:v8.5.1
+pingcap/tikv:v8.5.1
+pingcap/tidb:v8.5.1
