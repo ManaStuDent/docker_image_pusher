@@ -1,1 +1,1 @@
-oceanbase/oceanbase-ce:4.3.5-lts
+bitnami/mysql:5.7.43-debian-11-r73
