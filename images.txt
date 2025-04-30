@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:libtorrentv1-release-5.0.5_v1.2.20-ls73
+redis:7.4.3-alpine
