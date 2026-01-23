@@ -1,1 +1,1 @@
-juewuy/shellcrash:latest
+ghcr.io/yangchuansheng/ip_derper:latest
