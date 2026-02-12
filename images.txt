@@ -1,1 +1,1 @@
-ghcr.io/yangchuansheng/ip_derper:latest
+redis:6.2
