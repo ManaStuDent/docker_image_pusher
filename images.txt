@@ -1,1 +1,1 @@
-dbcliorg/mycli:mycli-1.25.0
+dperson/samba:latest
