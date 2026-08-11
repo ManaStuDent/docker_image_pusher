@@ -1,1 +1,1 @@
-dperson/samba:aarch64
+phpmyadmin/phpmyadmin:5
