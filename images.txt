@@ -1,2 +1,2 @@
-mysql:9.7.2
-mysql:8.4.11
+postgres:17.11
+postgres:18.6
