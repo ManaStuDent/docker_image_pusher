@@ -1,1 +1,1 @@
-luvx/mycli:alpine-1.29.2
+ghcr.io/dbcli/mycli:2.21.1
