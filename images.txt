@@ -1,2 +1,1 @@
-postgres:17.11
-postgres:18.6
+luvx/mycli:alpine-1.29.2
