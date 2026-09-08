@@ -1,1 +1,1 @@
-ghcr.io/dbcli/mycli:2.21.1
+ghcr.io/dbcli/mycli:2.21.0
