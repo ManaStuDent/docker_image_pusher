@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+cloudflare/cloudflared:2026.9.0-arm64
