@@ -1,1 +1,1 @@
-ghcr.io/dbcli/mycli:v2.21.1
+cloudflare/cloudflared:latest
